@@ -1,4 +1,4 @@
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Haley E. Brown	&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; heb001@uark.edu
+## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Haley E. Brown	&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; heb001@uark.edu
 
 
 #### EDUCATION
@@ -8,7 +8,7 @@ Anticipated Graduation: Spring 2018
 		
    	Thesis Focus: Neuroscience, Developmental Biology, Genetics
 
-**B.S. Biology (Honors), Anthropology Minor	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Arkansas at Fayetteville**  
+**B.S. Biology (Honors), Anthropology Minor	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Arkansas at Fayetteville**  
 Final GPA: 3.859  
 Graduation Date: Spring 2016
 
@@ -26,12 +26,12 @@ Study Slit-Robo1 axon guidance in the developing embryonic Central Nervous Syste
 _Undergraduate Honors Thesis_ - Wiring the insect nervous system: Slit-Robo interactions in midline axon guidance. Defended Spring 2016.
 
 #### PUBLICATIONS
-- [Brown HE, Reichert MC, Evans TA.](https://www.ncbi.nlm.nih.gov/pubmed/26362767) 2015. Slit binding via the Ig1 domain is essential for midline repulsion by _Drosophila_ Robo1 but dispensable for receptor expression, localization, and regulation _in vivo_. G3: Genes|Genomes|Genetics 5(11): 2429-2439
-- [Reichert MC, Brown HE, Evans TA.](http://www.ncbi.nlm.nih.gov/pubmed/27539083) 2016. _In vivo_ functional analysis of _Drosophila_ Robo1 immunoglobulin-like domains. Neural Dev. 11:15
-- [Brown HE, Reichert MC, Evans TA.](http://www.ncbi.nlm.nih.gov/pubmed/29217730) 2018. _In vivo_ functional analysis of _Drosophila_ Robo1 fibronectin type III repeats. G3: Genes|Genomes|Genetics 8(2):621-630
+- [**Brown HE**, Reichert MC, Evans TA.](https://www.ncbi.nlm.nih.gov/pubmed/26362767) 2015. Slit binding via the Ig1 domain is essential for midline repulsion by _Drosophila_ Robo1 but dispensable for receptor expression, localization, and regulation _in vivo_. G3: Genes|Genomes|Genetics 5(11): 2429-2439
+- [Reichert MC, **Brown HE**, Evans TA.](http://www.ncbi.nlm.nih.gov/pubmed/27539083) 2016. _In vivo_ functional analysis of _Drosophila_ Robo1 immunoglobulin-like domains. Neural Dev. 11:15
+- [**Brown HE**, Reichert MC, Evans TA.](http://www.ncbi.nlm.nih.gov/pubmed/29217730) 2018. _In vivo_ functional analysis of _Drosophila_ Robo1 fibronectin type III repeats. G3: Genes|Genomes|Genetics 8(2):621-630
 
 _Submitted Manuscripts [in press]_
-- [*Howard LJ, *Brown HE, *Wadsworth BC, Evans TA.](http://www.ncbi.nlm.nih.gov/pubmed/29174915) Midline axon guidance in the _Drosophila_ embryonic central nervous system. Invited review for Seminars in Cell and Developmental Biology. *equal contribution
+- [*Howard LJ, ***Brown HE**, *Wadsworth BC, Evans TA.](http://www.ncbi.nlm.nih.gov/pubmed/29174915) Midline axon guidance in the _Drosophila_ embryonic central nervous system. Invited review for Seminars in Cell and Developmental Biology. *equal contribution
 
 
 #### CONFERENCE PRESENTATIONS
