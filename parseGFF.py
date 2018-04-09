@@ -29,9 +29,17 @@
 
 ################################################################## Begin Code ###############################################################################################
 
+#load the required modules
+from Bio import SeqIO
 
 #Declare variable that holds the watermelon genome [watermelon.fsa] ; read in file
-genome = open("/Users/heb001/Desktop/watermelon_files/watermelon.fsa").read()
+genome = SeqIO.read("/Users/heb001/Desktop/watermelon_files/watermelon.fsa", "fasta") 
+
+
+#open("/Users/heb001/Desktop/watermelon_files/watermelon.fsa").read()
+#for record in SeqIO.parse(genome, "fasta")
+#fasta_sequences = SeqIO.parse(genome, "fasta")
+#fasta_sequences = SeqIO.parse(open("/Users/heb001/Desktop/watermelon_files/watermelon.fsa"),'fasta')
 
 
 #Declare variable that holds and opens watermelon.gff
@@ -44,14 +52,15 @@ GFF = open("/Users/heb001/Desktop/watermelon_files/watermelon.gff")
 
 #Create a for loop to read each line, split the string into a list based on presence of tab characters ("\t"), and name each desired variable of header
 for line in GFF:
+	#(species, type, beginning, end, length, gene) = line.split('/t')
 	features = line.split('\t')
 	species = (features[0])
 	beginning = int(features[3])
 	end = int(features[4])
 	length = int(features[5])
 	gene = (features[8])
-	print(">" + species + " | " + gene + "Length: " +str(length) + "\n" +  genome[beginning-1:end])
-	calculated_length = len(genome[beginning-1:end])
+	print(">" + species + " | " + gene + "Length: " +str(length) + "\n" +  genome.seq[beginning-1:end])
+	calculated_length = len(genome.seq[beginning-1:end])
 	print("Verifying length of gene: " + str(calculated_length))
 
 #Note: int = integer -- used on numerical data within the gff file
@@ -61,3 +70,4 @@ for line in GFF:
 
 #Close watermelon.gff file
 GFF.close()
+
