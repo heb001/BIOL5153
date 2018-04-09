@@ -13,9 +13,7 @@
 
 #Use SeqIO to parse the GFF file
 
-#Read in the genome (FASTA format), store it in a variable - use SeqIO for this --> having trouble converting gff to fasta with SeqIO
-	#attempted to download BioPython GFF converter with BCBio-gff package -- still no luck
-	#will attempt manually writing in watermelon.fsa file 
+#Read in the genome (FASTA format), store it in a variable - use SeqIO for this 
 
 #Open the GFF file
 #Read in line by line using a for loop
@@ -34,12 +32,6 @@ from Bio import SeqIO
 
 #Declare variable that holds the watermelon genome [watermelon.fsa] ; read in file
 genome = SeqIO.read("/Users/heb001/Desktop/watermelon_files/watermelon.fsa", "fasta") 
-
-
-#open("/Users/heb001/Desktop/watermelon_files/watermelon.fsa").read()
-#for record in SeqIO.parse(genome, "fasta")
-#fasta_sequences = SeqIO.parse(genome, "fasta")
-#fasta_sequences = SeqIO.parse(open("/Users/heb001/Desktop/watermelon_files/watermelon.fsa"),'fasta')
 
 
 #Declare variable that holds and opens watermelon.gff
