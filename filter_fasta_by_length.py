@@ -32,29 +32,8 @@ args = parser.parse_args()
 print("We're going to open this FASTA file: ", args.fasta)
 print("filter sequences less than ", args.min_seq_length, "nt in length")
 
-
-#####################################################################################################
-
-import argparse
-
-# create an ArgumentParser object ('parser') that will hold all the info necessary to parse the command line
-parser = argparse.ArgumentParser(description="This script extracts sequences from FASTA file based on coordinates")
-
-# use the add_argument() method to add a positional argument
-
-parser.add_argument("fasta", help="name of FASTA file")
-
-parser.add_argument("gff", help="name of GFF file")
-
-# parse the arguments
-args = parser.parse_args()
-
-print("We're gonna open this FASTA file:", args.fasta)
-print("filter sequences less than ", args.min_seq_length, "nt in length")
-
 fasta = SeqIO.parse(args.fasta, "fasta")
 
 for sequence in fasta:
-	if len(sequence.seq) > args.min_seq_length:
-		print(sequence.format("fasta"))
-
+        if len(sequence.seq) > args.min_seq_length:
+                print(sequence.format("fasta"))
