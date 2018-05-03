@@ -65,13 +65,13 @@ def parse_gff(dna):
 				
 				# Is this gene already in the dictionary? If yes, index exon by number 
 				if gene.group(1) in exons_dictionary:
-					exons_dicitonary[gene.group(1)] [exon.group(1)] = get_feature_sequence(dna, start, end, strand)
+					exons_dictionary[gene.group(1)] [exon.group(1)] = get_feature_sequence(dna, start, end, strand)
  				
 				# If the gene is not in the dictionary, initialize the exons list, then store the feature sequence by []
 				else:
 					exons_dictionary[gene.group(1)] = defaultdict(list) # Initialize the list
 						# or = [] but you have to define position 0 in your index
-					exons_dicitonary[gene.group(1)] [exon.group(1)] = get_feature_sequence(dna, start, end, strand) # Store the sequence
+					exons_dictionary[gene.group(1)] [exon.group(1)] = get_feature_sequence(dna, start, end, strand) # Store the sequence
 					
 			else:
 				print(">" + seqid.replace(" ", "_") + "_" + gene.group(1))
